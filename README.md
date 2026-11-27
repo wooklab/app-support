@@ -6,6 +6,8 @@ wooklab이 만든 iPhone 앱의 지원 페이지와 개인정보 처리방침입
 
 - 지원: https://wooklab.github.io/app-support/blanc/
 - 개인정보 처리방침: https://wooklab.github.io/app-support/blanc/privacy.html
+- 지원(일본어): https://wooklab.github.io/app-support/blanc/ja/
+- 개인정보 처리방침(일본어): https://wooklab.github.io/app-support/blanc/ja/privacy.html
 
 ## 문의
 
