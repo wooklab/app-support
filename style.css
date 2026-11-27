@@ -6,5 +6,6 @@ h1 { font-size: 28px; margin-bottom: 4px; }
 h2 { font-size: 21px; margin-top: 32px; }
 p.meta { color: var(--muted); margin-top: 0; }
 a { color: var(--accent); }
-nav { display: flex; gap: 16px; margin-bottom: 24px; }
+nav { display: flex; flex-wrap: wrap; gap: 4px 16px; margin-bottom: 24px; }
+nav a { white-space: nowrap; }
 hr { border: none; border-top: 1px solid var(--muted); opacity: 0.3; margin: 48px 0; }
